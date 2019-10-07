@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92b4f428-4340-4eb8-ba0f-8229831867e0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="quizdb@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="quizdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="quizdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="quizdb: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="quizdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="quizdb: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="tbl_category: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="quizdb@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="quizdb: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="tbl_item: table" type="dbc44a63:MariaImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>maxfi</find>
+      <find>dele</find>
+      <find>username</find>
+      <find>user_name</find>
+      <find>btn_ads_add</find>
+      <find>new</find>
+      <find>delete_info</find>
+      <find>new ads</find>
+      <find>delete</find>
+      <find>autocomplete=&quot;false&quot;</find>
+      <find>user</find>
+      <find>&lt;div class=&quot;col-md-12&quot; style=&quot;padding-bottom: 10px;&quot;&gt;</find>
+      <find>../../</find>
+      <find>topcontrol</find>
+      <find />
+      <find>toastr</find>
+      <find>&lt;div class=&quot;col-md-4 col-sm-4&quot;&gt;</find>
+      <find>*/</find>
+      <find>placeholder=&quot;&quot;</find>
+      <find>mkdir</find>
+      <find>font-size: 12px;</find>
+      <find>nav nav-tabs</find>
+      <find>nav-tabs</find>
+      <find>&lt;p style=&quot;font-size: 17px;&quot;&gt;</find>
+      <find>4074b5</find>
+      <find>75ffdd</find>
+      <find>getCategories</find>
+      <find>JS chart by amCharts</find>
+      <find>div-result-button</find>
+      <find>object</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>href=&quot;../assets</replace>
+      <replace>register</replace>
+      <replace>placeholder=&quot;&quot;</replace>
+      <replace>margin-top: 30px;</replace>
+      <replace>placeholder=&quot;&quot; required</replace>
+      <replace>id=&quot;&quot; placeholder=&quot;&quot;</replace>
+      <replace>&quot;../assets</replace>
+      <replace>button type=&quot;button&quot; class=&quot;close&quot;</replace>
+      <replace>$this-&gt;user_id</replace>
+      <replace>autocomplete=&quot;off&quot;</replace>
+      <replace>&lt;div class=&quot;col-md-12&quot; style=&quot;padding-bottom: 10px; border-bottom: 1px solid darkgrey;&quot;&gt;</replace>
+      <replace>../</replace>
+      <replace>&lt;div class=&quot;col-md-3 col-sm-3&quot;&gt;</replace>
+      <replace>font-size: 11px;</replace>
+      <replace>&lt;p class=&quot;description-text&quot;&gt;</replace>
+      <replace>FFF</replace>
+      <replace>eee</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/errors/home/index.php" />
+        <option value="$PROJECT_DIR$/application/config/autoload.php" />
+        <option value="$PROJECT_DIR$/application/views/home/view.html" />
+        <option value="$PROJECT_DIR$/assets/build/login.js" />
+        <option value="$PROJECT_DIR$/assets/build/main.js" />
+        <option value="$PROJECT_DIR$/application/models/User_model.php" />
+        <option value="$PROJECT_DIR$/assets/build/css/mystyle.css" />
+        <option value="$PROJECT_DIR$/assets/build/js/register_success.js" />
+        <option value="$PROJECT_DIR$/assets/build/js/login.js" />
+        <option value="$PROJECT_DIR$/application/controllers/Login.php" />
+        <option value="$PROJECT_DIR$/assets/build/js/main.js" />
+        <option value="$PROJECT_DIR$/application/views/home/register_success.php" />
+        <option value="$PROJECT_DIR$/application/views/home/validated.php" />
+        <option value="$PROJECT_DIR$/application/views/home/suppressed.php" />
+        <option value="$PROJECT_DIR$/application/views/home/new.php" />
+        <option value="$PROJECT_DIR$/application/views/login/login.php" />
+        <option value="$PROJECT_DIR$/assets/build/js/suppressed.js" />
+        <option value="$PROJECT_DIR$/application/views/home/suppressed_page.php" />
+        <option value="$PROJECT_DIR$/application/views/home/view.php" />
+        <option value="$PROJECT_DIR$/application/views/home/front.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/views/common/header.php" />
+        <option value="$PROJECT_DIR$/application/views/home/description.php" />
+        <option value="$PROJECT_DIR$/application/views/home/note here" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/application/config/routes.php" />
+        <option value="$PROJECT_DIR$/assets/build/js/system/result.js" />
+        <option value="$PROJECT_DIR$/application/views/common/footer.php" />
+        <option value="$PROJECT_DIR$/application/models/Data_model.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Data.php" />
+        <option value="$PROJECT_DIR$/assets/build/js/result.js" />
+        <option value="$PROJECT_DIR$/application/controllers/Home.php" />
+        <option value="$PROJECT_DIR$/application/views/home/result.php" />
+        <option value="$PROJECT_DIR$/assets/build/css/my-style.css" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/views/home/main.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/assets/build/js/front.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="344" />
+    <option name="y" value="-18" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Working_data\PHP_CI\John-quiz\assets\build\js\system" />
+      <recent name="D:\Working_data\PHP_CI\John-quiz\application\views\home" />
+      <recent name="D:\Working_data\PHP_CI\PIU\project\application\controllers" />
+      <recent name="D:\Working_data\PHP_CI\PIU\project\application\views\home" />
+      <recent name="D:\Working_data\PHP_CI\PIU\project\assets\build\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Working_data\PHP_CI\John-quiz\assets\build\js" />
+      <recent name="D:\Working_data\PHP_CI\PIU\project\assets\build\css" />
+      <recent name="D:\Working_data\PHP_CI\PIU\project\assets\build\js\system" />
+      <recent name="D:\Working_data\PHP_CI\PIU\project\assets\build\js" />
+      <recent name="D:\Working_data\PHP_CI\PIU\project\application\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92b4f428-4340-4eb8-ba0f-8229831867e0" name="Default Changelist" comment="" />
+      <created>1567757034454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567757034454</updated>
+      <workItem from="1567757035757" duration="26000" />
+      <workItem from="1567757127213" duration="80676000" />
+      <workItem from="1567937252762" duration="578000" />
+      <workItem from="1567947461864" duration="35000" />
+      <workItem from="1567947725558" duration="63569000" />
+      <workItem from="1570260083216" duration="1370000" />
+      <workItem from="1570262752566" duration="23722000" />
+      <workItem from="1570301744372" duration="6675000" />
+      <workItem from="1570343991128" duration="2958000" />
+      <workItem from="1570368718644" duration="29946000" />
+      <workItem from="1570457278954" duration="445000" />
+      <workItem from="1570457817492" duration="332000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="215748000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20628998" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="13" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.14765458" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/assets/build/js/system/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/js/system/jquery.validate.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/js/system/jquery.backstretch.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/js/system/select2.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/js/system/bootbox.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/js/system/jquery-ui.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/User_model.php" />
+    <entry file="file://$PROJECT_DIR$/assets/build/css/toastr.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/css/dropzone.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/frontend/pages/css/gallery.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/frontend/layout/scripts/layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="328" column="8" selection-start-line="328" selection-start-column="8" selection-end-line="328" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/image-2/real/large-group-of-happy-people-showing-thumbs-up-skynesher.jpg" />
+    <entry file="das://adf0e977-a7f4-4056-baa4-11df75924f8c/schema/piu_project/table/tbl_ad_info" />
+    <entry file="das://adf0e977-a7f4-4056-baa4-11df75924f8c/schema/piu_project/table/tbl_user" />
+    <entry file="das://adf0e977-a7f4-4056-baa4-11df75924f8c/schema/piu_project/table/tbl_common" />
+    <entry file="file://$PROJECT_DIR$/assets/build/js/login.js" />
+    <entry file="file://$PROJECT_DIR$/assets/build/js/register_success.js" />
+    <entry file="file://$PROJECT_DIR$/assets/build/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/Login.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/home/register_success.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/home/validated.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/home/suppressed.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/login/login.php" />
+    <entry file="file://$PROJECT_DIR$/assets/build/js/suppressed.js" />
+    <entry file="file://$PROJECT_DIR$/application/views/home/new.php" />
+    <entry file="file://$PROJECT_DIR$/application/views/home/suppressed_page.php" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4b268437-e016-43da-9a41-f648ccf7f97c/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/front.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/view.php" />
+    <entry file="das://4b268437-e016-43da-9a41-f648ccf7f97c/schema/quizdb/table/tbl_category">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://4b268437-e016-43da-9a41-f648ccf7f97c/schema/quizdb/table/tbl_item">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/description.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="78" selection-start-line="26" selection-start-column="78" selection-end-line="26" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/note here" />
+    <entry file="file://$PROJECT_DIR$/application/views/common/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="70" column="68" lean-forward="true" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-810" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="772">
+          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="79" column="35" lean-forward="true" selection-start-line="79" selection-start-column="35" selection-end-line="79" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="29" selection-start-line="38" selection-start-column="29" selection-end-line="38" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1206">
+          <caret line="94" column="22" selection-start-line="94" selection-start-column="22" selection-end-line="94" selection-end-column="22" />
+          <folding>
+            <element signature="n#getImages#0;n#Data#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Data_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/result.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/home/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="32" column="81" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/js/result.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1062">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/css/my-style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="105" column="20" selection-start-line="105" selection-start-column="20" selection-end-line="105" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/common/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/build/js/front.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="66" column="11" selection-start-line="66" selection-start-column="11" selection-end-line="66" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
